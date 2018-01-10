@@ -5,16 +5,12 @@ My virtual pocket, where I store javascript librairies, and other precious wonde
 ________________
 
 
-	- [ ]	[MeshLabJS](https://github.com/cnr-isti-vclab/meshlabjs)
 	
 #### A R
  - *Three.js*
 	- [ ]	[three.ar.js](https://github.com/google-ar/three.ar.js)
 	A helper three.js library for building AR web experiences that run in WebARonARKit and WebARonARCore https://developers.google.com/ar/deve…
 	
-	- [ ]	[MeshLabJS](https://github.com/cnr-isti-vclab/meshlabjs)
-
-
 
 #### I N P U T S
  - *Touch Devices*
@@ -27,3 +23,10 @@ ________________
 - [ ]  [swip.js](https://github.com/creativesupercraft/js-lore.git)
 A library to create multi device experiments.
 
+- [ ]  [platform.js](https://github.com/bestiejs/platform.js)
+A platform detection library that works on nearly all JavaScript platforms.
+
+#### T O O L S
+
+- [ ]	[MeshLabJS](https://github.com/cnr-isti-vclab/meshlabjs)
+A javascript client based mesh processing tool. Built using vcg library, emscripten and webgl http://www.meshlabjs.net
